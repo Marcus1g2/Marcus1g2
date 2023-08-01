@@ -1,11 +1,11 @@
-### Ola! Eu sou Marcus Vinicius
+## Ei! Tudo bem? Me chamo Marcus Vinicius, e bem vindo(a) ao meu Github! :)
 
 - 🔭 Formado em Engenharia da Computação
+- 👩🏻‍💻 Embarquei nesse mundo tecnológico 2019, e agora estou tendo a oportunidade de me graduar em Engenharia da Computaçao na Centro Universitário UniRuy - Wyden em Salvador, e nesse periodo cada vez via programação cada vez mais me apaixonava pela aréa e buscava mais conhecimento.
 - 🌱 Estudando PHP em conjunto com banco de dados MYSQL. 
 - 💬 Contate-me no email: contatomarcus@outlook.pt
-- 😄 Pronouns: ele/dele
+- 😄 Neste Github você pode encontrar alguns dos projetos que realizei sozinho ou com a ajuda de algum curso.
 
-## Oi eu sou Marcus Vinicius, engenheiro da computação estudando area de programação e tecnologia porque conhecimento nunca é demais!
 <div align="center">
   <a href="https://github.com/Marcus1g2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus1g2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
