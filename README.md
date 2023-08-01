@@ -1,11 +1,11 @@
 ### Ola! Eu sou Marcus Vinicius
 
-- 🔭 Faço faculdade Engenharia da Computação
-- 🌱 Estudando JavaScript voltado para Font-End Com foco React vou ver também Typescript
+- 🔭 Formado em Engenharia da Computação
+- 🌱 Estudando PHP em conjunto com banco de dados MYSQL. 
 - 💬 Contate-me no email: contatomarcus@outlook.pt
 - 😄 Pronouns: ele/dele
 
-## Oi eu sou Marcus Vinicius, estudante engenharia da computação estudando area de programação e tecnologia!
+## Oi eu sou Marcus Vinicius, engenheiro da computação estudando area de programação e tecnologia porque conhecimento nunca é demais!
 <div align="center">
   <a href="https://github.com/Marcus1g2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus1g2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
