@@ -2,7 +2,7 @@
 
 - 🔭 Formado em Engenharia da Computação
 - 👩🏻‍💻 Embarquei nesse mundo tecnológico 2019, e agora estou tendo a oportunidade de me graduar em Engenharia da Computaçao na Centro Universitário UniRuy - Wyden em Salvador, e nesse periodo cada vez via programação cada vez mais me apaixonava pela aréa e buscava mais conhecimento.
-- 🌱 Estudando PHP em conjunto com banco de dados MYSQL. 
+- 🌱 Estudando C# em conjunto com banco de dados MYSQL. 
 - 💬 Contate-me no email: contatomarcus@outlook.pt
 - 😄 Neste Github você pode encontrar alguns dos projetos que realizei sozinho ou com a ajuda de algum curso.
 
